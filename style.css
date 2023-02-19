@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+}
+
+.name {
+    background-color: aquamarine;
+    font-size: 30px;
+}
+
+.nickname {
+    background-color: aqua;
+    font-size: 25px;
+}
+
+.qst {
+    font-size: large;
+    background-color: bisque;
+}
